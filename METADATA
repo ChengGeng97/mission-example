@@ -1,7 +1,7 @@
-coverimage="https://i.imgur.com/q2O4iwa.png"
-kind="mission"
-number="M3"
-title="Curve Introduction"
+coverimage=https://i.imgur.com/q2O4iwa.png
+kind=mission
+number=M3
+title=Curve Introduction
 
-reading="Textbook Sections 1.1.5 to 1.1.8"
-websummary="In this mission, you get introduced to visible functions, called Curves!"
+reading=Textbook Sections 1.1.5 to 1.1.8
+websummary=In this mission, you get introduced to visible functions, called Curves!
