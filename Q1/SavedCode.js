@@ -11,5 +11,3 @@ function vertical_line(pt, length) {
   
 // Part 4
 // your answer here
-
-Pain
