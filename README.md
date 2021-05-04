@@ -162,5 +162,3 @@ in the [CURVES library](https://source-academy.github.io/source/CURVES/index.htm
 
 This mission has **three** tasks. Fill up your
 answers on the template for submission and **save your work**.
-
-change
