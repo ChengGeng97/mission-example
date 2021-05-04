@@ -19,3 +19,5 @@ should lead to the following Drawing:
 to join the them together. You'll need to draw the
 'S' in a continuous manner so you don't have jagged edges when drawing
 the connected version of the curve.
+
+change
