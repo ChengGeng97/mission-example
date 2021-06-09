@@ -1,6 +1,6 @@
 coverImage=https://i.imgur.com/q2O4iwa.png
-id=mission
-number=M3
+type=mission
+id=M3
 title=Curve Introduction
 sourceVersion=1
 
